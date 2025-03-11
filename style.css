@@ -10,10 +10,11 @@ h1 {
   text-transform: uppercase;
 }
 #bass {
-    border: 5px gold;
-    width: 100%;
+    border: 1px solid gold;
+    width: 75%;
 }
 div {
     width: 50%;
     margin-left: 25%;
+    margin-top: 100px;
 }
